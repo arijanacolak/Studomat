@@ -1,0 +1,27 @@
+.dugmici {
+    -fx-background-color: #3e4444;
+    -fx-text-fill: white;
+}
+.labela {
+    -fx-background-color: #357EC7;
+    -fx-text-fill: white;
+}
+
+#slika {
+    -fx-graphic: url("/img/logo1.jpg");
+}
+.qr{
+-fx-graphic: url("/img/QR_scanner.png");
+}
+
+#id1{
+    -fx-background-color:#a9a9a9;
+}
+
+#labelaPoruka{
+    -fx-text-fill: darkred;
+}
+
+.boja{
+    -fx-background-color:#a9a9a9;
+}
